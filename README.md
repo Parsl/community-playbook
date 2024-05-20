@@ -19,12 +19,12 @@ This playbook is not intended to capture every process. Instead, it serves as a 
 Items that are similar in purpose are organized into a resource folder to make it easier to locate them. Below, you will find an overview of these folders and the respective items that live in them.
 
 ### Folder: Guides
-This resource folder holds items that provide instruction, tutorials, etc. for community activities. Information regarding technical project activities live on our [organization page on GitHub](https://github.com/Parsl/parsl) and in our [project documentation](https://parsl.readthedocs.io/en/stable/).
+This resource folder holds items that provide instruction, tutorials, etc. for community activities. Information regarding technical project activities live on our [organization page on GitHub](https://github.com/Parsl) and in our [project documentation](https://parsl.readthedocs.io/en/stable/).
 |Item Name               | What's Included?                  |
 |------------------------|-----------------------------------|
-|[Community Blog](Community-Blog.md)|Describes the purpose of our community blog. It also provides an overview of [content guidelines](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-content-guidelines), the [editorial review process](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#-editorial-review-process), and [instructions on how to contribute to the blog](https://github.com/sophie-bui/parsl-community-playbook/blob/main/Guides/Community-Blog.md#%EF%B8%8F-ready-to-write-a-guest-blog-check-out-our-contribute-to-blog-instructions-to-begin).|
-|[Contributing](Contributing.rst) |We welcome contributions to our source code! This guide describes how to contribute code  |
-|[Slack Quickstart](Slack-Quickstart.md) |Describes how to join and use our Slack workspaces and channels.|
+|[Community Blog](Guides/Community-Blog.md)|Describes the purpose of our community blog. It also provides an overview of [content guidelines](https://github.com/Parsl/community-playbook/blob/main/Guides/Community-Blog.md#-content-guidelines), the [editorial review process](https://github.com/Parsl/community-playbook/blob/main/Guides/Community-Blog.md#-editorial-review-process), and [instructions on how to contribute to the blog](https://github.com/Parsl/community-playbook/blob/main/Guides/Community-Blog.md#%EF%B8%8F-ready-to-write-a-guest-blog-check-out-our-contribute-to-blog-instructions-to-begin).|
+|[Contributing](https://github.com/Parsl/parsl/blob/master/CONTRIBUTING.rst) |We welcome contributions to our source code! This guide describes how to contribute code  |
+|[Slack Quickstart](Guides/Slack-Quickstart.md) |Describes how to join and use our Slack workspaces and channels.|
 
 ### Folder: Open Community Calls (OCC)
 Our Open Community Calls are hosted on Zoom every two weeks @ 11 a.m. CST. These calls give us an opportunity to get together to share project progress, discuss challenges, troubleshoot technical issues, and provide community updates. This call is mostly unstructured to allow space and time for people to drop by, ask questions, and provide input.
