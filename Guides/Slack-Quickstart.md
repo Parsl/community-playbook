@@ -4,8 +4,8 @@ Slack, a cloud-based messaging app, is our community's primary daily communicati
 
 If you're new to Slack or overwhelmed by the prospect of another Slack group, here are some quick tips to configure and use the tool in a way that works best for you. They are organized into three key areas:
 1. [Configuring Your Account](#1-configuring-your-account)
-2. Notification Settings
-3. Communicating with Others
+2. [Notification Settings](#2-notifications-settings--adjusting-the-volume)
+3. [Communicating with Others](#3-communicating-with-others)
 
 ## 1. Configuring Your Account
 ### 1.1 👤 Profile
