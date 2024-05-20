@@ -83,5 +83,7 @@ If a channel has become too noisy, you can additionally:
 It can be helpful to others when you’re sharing resources and brainstorming solutions to “work out loud” in a specific thread because then your learning becomes a future resource for others too.
 However, sometimes you want to start a private conversation. To do this, go to the direct messages section on the bottom left of the left-hand side bar. Click the + icon to start a new message. You can add more than one recipient to create a group message.
 
+[⬆️ Back to the top](#quickstart-guide-for-parsls-slack-workspace)
+
 ---
 <img src="https://www.cscce.org/wp-content/uploads/2020/01/CSCCE_Acronym-with-Flower_RGB.png" width="125"><br>This guide is adapted from an original by the Center for Scientific Collaboration and Community Engagement (CSCCE) under a CC BY 4.0 license, doi: [10.5281/zenodo.3763729](https://doi.org/10.5281/zenodo.3763729).
