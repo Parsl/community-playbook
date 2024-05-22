@@ -17,4 +17,4 @@ Community members discuss their experiences and share their work in several chan
 ## Community Sketch
 This sketch provides a high-level view of how our community members, collaborators, and partners interact with each other.
 
-<img src="Files/images/parsl-community-sketch.JPG">
+<img src="https://github.com/Parsl/community-playbook/blob/main/Files/Images/parsl-community-sketch.JPG">
