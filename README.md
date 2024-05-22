@@ -1,10 +1,12 @@
-# Community Playbook
+# <img src="https://github.com/Parsl/community-playbook/blob/main/Files/Images/Logos/parsl-icon.png" width="30px" height="auto"> Parsl Community Playbook
 
-👋 Welcome! This is a dedicated space with information on the strategies, procedures, and activities of the [Parsl](https://github.com/Parsl/parsl) community. This is a public, living space intended to help our community members and collaborators understand our project and understand how to engage and connect with each other.
+👋 Welcome! This is a dedicated space with information on the strategies, procedures, and activities of the <a href="https://github.com/Parsl/parsl" target="_blank">Parsl community</a>. This is a public, living space intended to help our community members and collaborators understand our project and understand how to engage and connect with each other.
 
 This playbook is not intended to capture every process. Instead, it serves as a guide to our community by providing an overview of how we operate and points to ways and resources where you can learn more. This playbook was developed in 2024 and is updated annually.
 
 # How to Navigate This Playbook 
+This README is set up as a resource hub, directing you to the appropriate resources you may need. There are files that originate in this repository and links to files that live in other repositories and channels. If you have suggestions on resources you would like included in our playbook, please add a comment to our <a href="https://github.com/Parsl/community-playbook/discussions/1" target="_blank">discussions thread</a>.
+
 ## 🔖 Table of Contents
 |Section Title            |What's in This Section? |
 |-------------------------|------------------------------|
