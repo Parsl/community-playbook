@@ -2,7 +2,7 @@
 
 <img src="https://parsl-project.org/parslfest/2023/pf2023-banner.png" alt="Parsl community members gathered at ParslFest 2023">
 
-Parsl is an open source software package that parallelizes Python programs, constructs workflows and runs them scalably and efficiently on small to vast local and remote resources. The project’s first four years involved a small group of funded developers building out the tool and a community of 35 global contributors using Parsl for their work. Since the 1.0 production version release in 2020, the community has grown to over 75 global contributors and 320 members on Slack.
+Parsl is an open source software package that parallelizes Python programs, constructs workflows and runs them scalably and efficiently on small to vast local and remote resources. The project’s first four years involved a small group of funded developers building out the tool and a community of 35 global contributors using Parsl for their work. Since the 1.0 production version release in 2020, the community has grown to over 100 global contributors and 400 members on Slack.
 
 The goal of the community is to accelerate interdisciplinary research across academia and industry and foster a supportive space to contribute and make improvements to Parsl. Members include research software engineers, researchers, scientists, compute resource admins, and developers with varying levels of expertise, domains and disciplines, career levels, and geographic regions. Parsl serves as a basis for novel computer science research related to parallel and distributed computing, as well as enabling system administrators to support their users via a Python library that integrates with their research environment.
 
