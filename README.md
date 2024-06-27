@@ -4,6 +4,14 @@
 
 This playbook is not intended to capture every process. Instead, it serves as a guide to our community by providing an overview of how we operate and pointing to ways and resources where you can learn more. It was developed in 2024 and is updated annually.
 
+<hr>
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Our community playbook is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a> and you are welcome to remix and reuse components of this playbook with attribution to Parsl (see example below). <a href="https://github.com/Parsl/community-playbook?tab=License-1-ov-file" target="_blank">Check out the full license</a>.
+
+    Components of our playbook are adapted from the Parsl Community Playbook (https://github.com/Parsl/community-playbook).
+
+<hr>
+
 # How to Navigate This Playbook 
 This README is set up as a resource hub, directing you to the necessary resources.
 * Items that have the upward arrow icon (↗️) signify that it's an external link.
