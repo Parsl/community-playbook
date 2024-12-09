@@ -5,3 +5,18 @@ With grants from NSF and CZI, Parsl is entering its next phase toward sustainabi
 
 
 <img src="https://raw.githubusercontent.com/Parsl/community-playbook/main/Files/Images/Parsl-Funders-Banner.png" alt="Parsl funders' logos from the National Science Foundation, Chan Zuckerberg Initiative, and The U.S. Department of Energy.">
+
+## Fiscal Sponsor
+[//]: # (numfocus-fiscal-sponsor-attribution)
+
+Parsl uses an [open governance model](./GOVERNANCE.md) and is fiscally sponsored by [NumFOCUS](https://numfocus.org/). Consider making 
+a [tax-deductible donation](<PROJECT_NUMFOCUS_DONATION_LINK>) to help the project pay for developer time, professional services, travel, workshops, and a variety of other needs.
+
+<div align="center">
+  <a href="<PROJECT_NUMFOCUS_SPONSORSHIP_LINK>">
+    <img height="60px" 
+         src="https://raw.githubusercontent.com/numfocus/templates/master/images/numfocus-logo.png" 
+         align="center">
+  </a>
+</div>
+<br>
