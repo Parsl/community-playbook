@@ -10,7 +10,7 @@ With grants from NSF and CZI, Parsl is entering its next phase toward sustainabi
 [//]: # (numfocus-fiscal-sponsor-attribution)
 
 Parsl uses an [open governance model](./GOVERNANCE.md) and is fiscally sponsored by [NumFOCUS](https://numfocus.org/). Consider making 
-a [tax-deductible donation](https://app.hubspot.com/payments/purchase/hscs_KLz7SlcsCAGVqY6JyNkY2vOAoiNzS2u1jRPvIcLu9JVZbIcpiu7bL6DegkPf0BF6) to help the project pay for developer time, professional services, travel, workshops, and a variety of other needs.
+a [tax-deductible donation](https://app.hubspot.com/payments/CxdrfJtCd7k2W?referrer=PAYMENT_LINK) to help the project pay for developer time, professional services, travel, workshops, and a variety of other needs to keep Parsl up and running.
 
 <div align="center">
   <a href="https://app.hubspot.com/payments/purchase/hscs_KLz7SlcsCAGVqY6JyNkY2vOAoiNzS2u1jRPvIcLu9JVZbIcpiu7bL6DegkPf0BF6">
