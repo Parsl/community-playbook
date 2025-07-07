@@ -4,7 +4,7 @@ Giving a talk at our open community calls is a great way for community members t
 ## 2025 Talks
 |Recording Watch Link & Details| Overview, Notes & Links|
 |--------------------|-------------------------|
-|<a href="https://youtu.be/NpH9CYupZGE?si=4U1fNPOyo5KpuA2S" target="_blank"><img src="/Files/Images/082024_Sander-Vandenhaute.png" alt="A stylized video thumbnail graphic with talk title, speaker headshot, recording date, and a play button."></a>**Talk Date**: August 20, 2024<br>**Speaker**: Sander Vandenhaute|<h3>Scalable Molecular Simulation Using Parsl</h3>In this talk, Sander will discuss <a href="https://molmod.github.io/psiflow/" target="_blank">psiflow</a>, a scalable molecular simulation framework that targets non-Parsl-savvy users. He’ll discuss the easy setup of Parsl providers and executors on clusters, combining containers and parallel efficiency, setting ulimits, and smarter Futures.|
+|<a href="https://youtu.be/4rDQev1P4Oo" target="_blank"><img src="/Files/Images/021825_Logan-Ward.png" alt="A stylized video thumbnail graphic with talk title, speaker headshot, recording date, and a play button."></a>**Talk Date**: February 18, 2025<br>**Speaker**: Logan Ward|<h3>Freshening Parsl's Documentation</h3>In this talk, Logan discusses his work on reordering Parsl's user guide and how fellow users can provide feedback and contribute to this overall effort.|
 
 ## 2024 Talks
 
